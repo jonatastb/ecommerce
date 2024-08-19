@@ -4,9 +4,9 @@ Este é um projeto básico de e-commerce desenvolvido utilizando Laravel, Tailwi
 
 ## Tecnologias Utilizadas
 
-- **Laravel**: Framework PHP para o desenvolvimento de aplicações web.
-- **Tailwind CSS**: Framework CSS utilitário para estilização.
-- **SQLite**: Banco de dados leve e fácil de configurar.
+- **Laravel**
+- **Tailwind CSS**
+- **SQLite**
 
 ## Requisitos
 
